@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/ShaderLab/1. SimpleDissolve/SimpleDissolve.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
