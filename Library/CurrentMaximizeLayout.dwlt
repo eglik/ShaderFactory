@@ -71,7 +71,7 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 1
+    m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
@@ -85,18 +85,18 @@ MonoBehaviour:
       y: 17
       width: 678
       height: 596
-    m_Scale: {x: 0.36371875, y: 0.36371875}
-    m_Translation: {x: 334.47, y: 298}
+    m_Scale: {x: 0.353125, y: 0.353125}
+    m_Translation: {x: 339, y: 298}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -919.58417
-      y: -819.3144
-      width: 1864.0776
-      height: 1638.6288
+      x: -960
+      y: -843.8938
+      width: 1920
+      height: 1687.7876
     m_MinimalGUI: 1
   m_defaultScale: 0.353125
   m_TargetTexture: {fileID: 0}
@@ -212,9 +212,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 0ce9ffff
-      m_LastClickedID: 0
-      m_ExpandedIDs: 8efbffff
+      m_SelectedIDs: 46fbfdff
+      m_LastClickedID: -132282
+      m_ExpandedIDs: b011feff2062feff2262feffbca6ffff32adffff96e9ffff8efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -302,9 +302,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 3.0566149, y: 0.050966296, z: -2.3566008}
+    m_Target: {x: 0.96909845, y: 0.56490195, z: -0.27287272}
     speed: 2
-    m_Value: {x: 3.0566149, y: 0.050966296, z: -2.3566008}
+    m_Value: {x: 0.96909845, y: 0.56490195, z: -0.27287275}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -333,13 +333,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.03461732, y: 0.9522928, z: -0.11802552, w: 0.27930954}
+    m_Target: {x: -0.014322979, y: 0.97729534, z: -0.19944029, w: -0.07019252}
     speed: 2
-    m_Value: {x: 0.035036176, y: 0.9521129, z: -0.119453594, w: 0.27925676}
+    m_Value: {x: -0.013425256, y: 0.9775941, z: -0.19950125, w: -0.065793514}
   m_Size:
     m_Target: 3.989082
     speed: 2
-    m_Value: 3.9890835
+    m_Value: 3.989082
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -545,20 +545,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/ShaderLab/2. Edge Dissolve
+    - Assets/ShaderLab/3. Force Shield/Texture
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/ShaderLab/2. Edge Dissolve
+  - Assets/ShaderLab/3. Force Shield/Texture
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\eglik\Desktop\study\ShaderLab
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c6360000
-    m_LastClickedID: 14022
-    m_ExpandedIDs: 00000000962e0000363000009433000000ca9a3b
+    m_SelectedIDs: 9a3b0000
+    m_LastClickedID: 15258
+    m_ExpandedIDs: 00000000982e0000983300003c37000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -586,7 +586,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000962e0000
+    m_ExpandedIDs: 00000000982e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -611,8 +611,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 0ce9ffff
-    m_LastClickedInstanceID: -5876
+    m_SelectedInstanceIDs: 46fbfdff
+    m_LastClickedInstanceID: -132282
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300003c2f0000a83000008036000006310000
     m_RenameOverlay:
