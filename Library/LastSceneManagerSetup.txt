@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/ShaderLab/4. Direction Edge Dissolve/Direction Edge Dissolve.unity
+- path: Assets/ShaderLab/5. Baron Buff Minion/Baron Buff Minion.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
